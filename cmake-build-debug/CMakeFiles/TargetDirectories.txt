@@ -1,0 +1,3 @@
+C:/Users/Amir/CLion Projects/dfaExpression/cmake-build-debug/CMakeFiles/dfaExpression.dir
+C:/Users/Amir/CLion Projects/dfaExpression/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Amir/CLion Projects/dfaExpression/cmake-build-debug/CMakeFiles/rebuild_cache.dir
